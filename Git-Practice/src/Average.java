@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Git_Practice {
+public class Average {
 	public static void main(String[] args) {
 		System.out.print("국어, 영어, 수학, 사회, 과학 점수를 차례로 입력하시오: ");		
 		Scanner s = new Scanner(System.in);
